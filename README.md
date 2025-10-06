@@ -1,4 +1,4 @@
-Logo/picture
+logo
 About.html
 Contact.html
 Home.html
