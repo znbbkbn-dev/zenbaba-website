@@ -1,4 +1,4 @@
-logo
+Lobo/image.html
 
 About.html
 
